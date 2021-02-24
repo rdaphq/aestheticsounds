@@ -18,6 +18,3 @@ or
 #### Links
 - [Support Server](https://discord.gg/bcvyhYX5aF)
 - [Add Bot](https://discord.com/oauth2/authorize?client_id=785733504461307964&scope=bot&permissions=305655120)
----
-#### Code
-- If you wanna support AestheticSounds coding some new features, please contact me (**Rdap#5977**) by Discord
